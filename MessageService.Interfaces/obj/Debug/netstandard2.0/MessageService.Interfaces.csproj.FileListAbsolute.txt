@@ -1,0 +1,9 @@
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\bin\Debug\netstandard2.0\MessageService.Interfaces.deps.json
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\bin\Debug\netstandard2.0\MessageService.Interfaces.dll
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\bin\Debug\netstandard2.0\MessageService.Interfaces.pdb
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\obj\Debug\netstandard2.0\MessageService.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\obj\Debug\netstandard2.0\MessageService.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\obj\Debug\netstandard2.0\MessageService.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\obj\Debug\netstandard2.0\MessageService.Interfaces.AssemblyInfo.cs
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\obj\Debug\netstandard2.0\MessageService.Interfaces.dll
+C:\Users\Darwin Yo\Desktop\MessagingPattern\MessageService\MessageService.Interfaces\obj\Debug\netstandard2.0\MessageService.Interfaces.pdb
