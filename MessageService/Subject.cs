@@ -19,9 +19,6 @@ namespace MessageService
         where T : class, new()
         where TPublisher : IPublisher<T>
     {
-        /// <summary>
-        /// Leverage DI...
-        /// </summary>
         public Subject()
         {
         }

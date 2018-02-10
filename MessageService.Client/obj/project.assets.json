@@ -918,6 +918,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Users\\Darwin Yo\\Desktop\\MessagingPattern\\MessageService\\MessageService.Client\\MessageService.Client.csproj",
       "projectName": "MessageService.Client",
@@ -942,11 +945,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Darwin Yo\\Desktop\\MessagingPattern\\MessageService\\MessageService.Interfaces\\MessageService.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\Darwin Yo\\Desktop\\MessagingPattern\\MessageService\\MessageService.Interfaces\\MessageService.Interfaces.csproj"
-            },
             "C:\\Users\\Darwin Yo\\Desktop\\MessagingPattern\\MessageService\\MessageService\\MessageService.csproj": {
               "projectPath": "C:\\Users\\Darwin Yo\\Desktop\\MessagingPattern\\MessageService\\MessageService\\MessageService.csproj"
+            },
+            "C:\\Users\\Darwin Yo\\Desktop\\MessagingPattern\\MessageService\\MessageService.Interfaces\\MessageService.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Darwin Yo\\Desktop\\MessagingPattern\\MessageService\\MessageService.Interfaces\\MessageService.Interfaces.csproj"
             }
           }
         }

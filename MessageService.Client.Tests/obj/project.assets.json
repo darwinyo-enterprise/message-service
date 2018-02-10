@@ -6196,6 +6196,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "C:\\Users\\Darwin Yo\\Desktop\\MessagingPattern\\MessageService\\MessageService.Client.Tests\\MessageService.Client.Tests.csproj",
       "projectName": "MessageService.Client.Tests",
@@ -6248,7 +6251,6 @@
             "version": "[15.5.0, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
